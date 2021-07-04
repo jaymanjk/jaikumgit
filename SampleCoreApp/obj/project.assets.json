@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jaikum\\MyGitRepo\\jaikumgit\\SampleCoreApp\\SampleCoreApp\\SampleCoreApp.csproj",
+      "projectUniqueName": "C:\\Jaikum\\MyGitRepo\\jaikumgit\\SampleCoreApp\\SampleCoreApp.csproj",
       "projectName": "SampleCoreApp",
-      "projectPath": "C:\\Jaikum\\MyGitRepo\\jaikumgit\\SampleCoreApp\\SampleCoreApp\\SampleCoreApp.csproj",
+      "projectPath": "C:\\Jaikum\\MyGitRepo\\jaikumgit\\SampleCoreApp\\SampleCoreApp.csproj",
       "packagesPath": "C:\\Users\\manon\\.nuget\\packages\\",
-      "outputPath": "C:\\Jaikum\\MyGitRepo\\jaikumgit\\SampleCoreApp\\SampleCoreApp\\obj\\",
+      "outputPath": "C:\\Jaikum\\MyGitRepo\\jaikumgit\\SampleCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manon\\AppData\\Roaming\\NuGet\\NuGet.Config",
